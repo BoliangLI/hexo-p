@@ -1,0 +1,9 @@
+{
+  "name": "hexo-site",
+  "installCommand": "pnpm install",
+  "buildCommand": "pnpm run build",
+  "assets": {
+    "directory": "./public",
+    "notFoundStrategy": "404Page"
+  }
+}
